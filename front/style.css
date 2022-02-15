@@ -1,0 +1,26 @@
+html {
+height: 100%;
+width: 100%;
+}
+.tarp {
+	margin: 10px;
+}
+body {
+
+background: linear-gradient(black 90%, rgb(	245, 150, 0) );
+}
+.aukstis {
+	height: 50px;
+}
+.asd {
+	-webkit-box-shadow: 6px 5px 29px 8px rgba(72,135,126,0.51); 
+box-shadow: 6px 5px 29px 8px rgba(72,135,126,0.51);
+}
+.siz {
+	height: 100fr;
+	width: 1fr;
+}
+.las {
+	width: 100%;
+	height: 100%;
+}
